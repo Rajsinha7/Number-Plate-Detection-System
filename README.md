@@ -38,7 +38,7 @@ A working webcam
 pip install opencv-python
 
 3️.Clone the Repository
-git clone[[ https://github.com/your-username/number-plate-detection.git](https://github.com/Rajsinha7/Number-Plate-Detection-System/tree/main)](https://github.com/Rajsinha7/Number-Plate-Detection-System/tree/main)
+git clone(https://github.com/Rajsinha7/Number-Plate-Detection-System/tree/main)](https://github.com/Rajsinha7/Number-Plate-Detection-System/tree/main)
 cd number-plate-detection
 
 4️. Run the Application
